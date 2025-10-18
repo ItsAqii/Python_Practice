@@ -29,3 +29,11 @@ for x in (car1, boat1, plane1): # Iterate through the objects
   print(x.brand) # Print the brand of the object
   print(x.model)  # Print the model of the object
   x.move() # Call the move method, demonstrating polymorphism
+# Output:
+# Ford  
+# Mustang
+# Move!
+# Ibiza
+# Touring 20
+# Boeing
+# 747
